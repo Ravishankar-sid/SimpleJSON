@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Ravi Tech Solutions",
+        "numberOfEmployees": 10,
+        "location": "Hyderabad",
+        "isRemote": true,
+        "technologies": ["Java", "Spring", "Hibernate", "Angular", "React", "NodeJS"],
+        "rattings": 4.5
+    },
+    {
+        "name":"Surya Solutions",
+        "numberOfEmployees": 120,
+        "location": "Mumbai",
+        "isRemote": false,
+        "technologies": ["Java", "Spring", "Angular"],
+        "rattings": 4
+    },
+    {
+        "name":"Amani New Tech",
+        "numberOfEmployees": 3,
+        "location": "Bangalore",
+        "isRemote": true,
+        "technologies": null,
+        "rattings": 0
+    }
+]
